@@ -15,8 +15,6 @@ Mini proyecto de biblioteca desarrollado en Java, con conexión a base de datos 
 - Enum para estados de libros (`DISPONIBLE`, `PRESTADO`)  
 - Consola interactiva para el usuario  
 
-🔗 Repositorio: github.com/tuUsuario/BibliotecaApp  
-
 Una forma práctica de demostrar cómo implemento lógica de negocio, manejo de bases de datos y patrones de diseño.
 
 ## Configuración de la Base de Datos
@@ -94,4 +92,6 @@ Mejoras posibles
 - Registrar historial de préstamos por usuario
 
 Autor:
-Mar Simó Alejos / Linkedin: https://www.linkedin.com/in/mar-sim%C3%B3-alejos-137a11203/ / Github: https://github.com/morgannedev
+Mar Simó Alejos
+🔗 Linkedin: https://www.linkedin.com/in/mar-sim%C3%B3-alejos-137a11203/ 
+🔗 Github: https://github.com/morgannedev
