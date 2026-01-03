@@ -68,3 +68,30 @@ private static final String URL="jdbc:mysql://localhost:3306/myapp";
 private static final String USER="backendMyApp";
 private static final String PASSWORD="TU_PASSWORD";
 ```
+Cómo ejecutar la aplicación
+1. Compilar todos los archivos .java:
+```bash
+javac -d out/production/03_Biblioteca src/**/*.java
+```
+2. Ejecutar la clase principal BibliotecaApp:
+```bash
+java -cp out/production/03_Biblioteca;path/a/mariadb-java-client-3.5.7.jar BibliotecaApp
+```
+Uso de la aplicación
+
+Al iniciar la app, verás un menú principal:
+```pqsql
+--- ¡Hola de nuevo! ---
+1) Login
+2) Registrarse
+Introduce una opción
+```
+Mejoras posibles
+
+- Agregar interfaz web con Servlets o Spring Boot
+- Permitir búsqueda de libros por título o autor
+- Añadir validaciones más robustas en la consola
+- Registrar historial de préstamos por usuario
+
+Autor:
+Mar Simó Alejos / Linkedin: https://www.linkedin.com/in/mar-sim%C3%B3-alejos-137a11203/ / Github: https://github.com/morgannedev
