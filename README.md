@@ -21,8 +21,7 @@ Una forma práctica de demostrar cómo implemento lógica de negocio, manejo de 
 
 1. Instalar MariaDB o MySQL y crear la base de datos:
 
-<img src="![BIBLIOTECA](https://github.com/user-attachments/assets/e81a2deb-d4f0-4b41-ae44-035cd0ea4cfc)
-"/>
+<img src="https://github.com/user-attachments/assets/e81a2deb-d4f0-4b41-ae44-035cd0ea4cfc"/>
 
 Crear las tablas necesarias:
 ```sql
